@@ -1,0 +1,10 @@
+.user-box img{
+    border-radius: 50%;
+    width: 250px;
+    border: 2px solid #6caed5;
+}
+
+.navbar-brand img{
+    height: 50px;
+}
+
